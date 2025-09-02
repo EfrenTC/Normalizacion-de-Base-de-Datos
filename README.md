@@ -6,7 +6,7 @@
 ## Diagrama ER de Chen
 <img width="2712" height="1206" alt="ER Chen" src="https://github.com/user-attachments/assets/f4a5f118-af76-410a-b905-4883be9f698f" />
 
-## Base de datos normalizda
+## Base de datos normalizada
 
 [Base de datos.pdf](https://github.com/user-attachments/files/22089000/Base.de.datos.pdf)
 
