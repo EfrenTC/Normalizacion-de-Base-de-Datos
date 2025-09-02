@@ -7,6 +7,10 @@
 
 
 
+## Base de datos normalizda
+
+[Base de datos.pdf](https://github.com/user-attachments/files/22089000/Base.de.datos.pdf)
+
 
 Instrucciones:
 
