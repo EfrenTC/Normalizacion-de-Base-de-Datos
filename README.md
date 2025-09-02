@@ -1,11 +1,10 @@
 # Normalizacion-de-Base-de-Datos
+
 ## Diagrama de patas 
 <img width="3840" height="2040" alt="patas_gallo_diagrama" src="https://github.com/user-attachments/assets/426bbcea-2b66-411d-8d1f-4fb48edf1c7d" />
 
 ## Diagrama ER de Chen
-
-
-
+<img width="2712" height="1206" alt="ER Chen" src="https://github.com/user-attachments/assets/f4a5f118-af76-410a-b905-4883be9f698f" />
 
 ## Base de datos normalizda
 
